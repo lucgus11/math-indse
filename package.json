@@ -1,0 +1,11 @@
+{
+  "name": "pwa-proxy-google-site",
+  "version": "1.0.0",
+  "description": "Proxy Vercel pour transformer un Google Site en PWA",
+  "scripts": {
+    "start": "node api/proxy.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
