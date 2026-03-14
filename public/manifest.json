@@ -1,0 +1,16 @@
+{
+  "name": "Mathématiques INDSE",
+  "short_name": "Maths INDSE",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a73e8",
+  "icons": [
+    {
+      "src": "https://www.gstatic.com/images/branding/product/1x/sites_512dp.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
